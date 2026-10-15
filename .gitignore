@@ -1,0 +1,6 @@
+.env
+.env.*
+node_modules/
+assets/fonts/eugenio-*
+*.zip
+private/

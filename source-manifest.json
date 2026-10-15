@@ -1,0 +1,147 @@
+{
+  "status": "public-source-handoff-not-published",
+  "entryPoint": "index.html",
+  "omissions": [
+    "commercial Eugenio font files",
+    "private source documents",
+    "Canva reference screenshots"
+  ],
+  "visualVerification": "pending; source and motion tests passed locally",
+  "files": [
+    {
+      "path": "assets/current/125-mozart-original_cc72da78.webp",
+      "sha256": "0aa3992955e573a407a5c1bdf7e64f5609ce595e6f87991e5fe863a872b337ed",
+      "bytes": 371984
+    },
+    {
+      "path": "assets/current/20250106-IMG_8999_28e8ddbd.webp",
+      "sha256": "53ff3b9402d7d714b8ed7c630e39543c88aa522fa83b421381eae72b95473475",
+      "bytes": 96744
+    },
+    {
+      "path": "assets/current/EditorinResidencestacklogoBlack_86db114c.webp",
+      "sha256": "58768ae79c7e92b4a57ebe0b30e763dfb21dfee6a8dde202e7ff7331df91a6ac",
+      "bytes": 25152
+    },
+    {
+      "path": "assets/current/PSIR_Horizontal_white_92f12fe6.png",
+      "sha256": "24ab1173b0bd78a9d4a2c4df7d07abf9ea8987a3d856fd25edf2f32cb88a08ea",
+      "bytes": 82368
+    },
+    {
+      "path": "assets/current/Print157-8-no-marker_cd20bd5b.webp",
+      "sha256": "ae52a74fb39305e0068416f24d0438bcc39cdb3b79004bd3d6ea52a2191e57a4",
+      "bytes": 1086956
+    },
+    {
+      "path": "assets/current/RandeTurner_TT_Horizontal_white_1f671491.png",
+      "sha256": "1719576ce9d510af6406398bfcf1741e3d991870dd56b1d7f8c30fd83f69bb23",
+      "bytes": 131048
+    },
+    {
+      "path": "assets/current/editor-in-residence-black_e4c900b2.svg",
+      "sha256": "76509cf433196e2179fe25add4d4f0b36db5e72724edbe5acaa66119b0cdc024",
+      "bytes": 10344
+    },
+    {
+      "path": "assets/current/editor-in-residence-white_08e5d3f7.svg",
+      "sha256": "a49531c6f11fd0aa13a86b137f2fd336a5b43c90ea2af934dd6febf6707339a9",
+      "bytes": 10446
+    },
+    {
+      "path": "assets/current/gillian-portrait-option-1_537d8b33.webp",
+      "sha256": "b79b8b4eabe1fc09addd3c1a4c9f4cf3cbea7f1188abd514e4cb2b03b40794e6",
+      "bytes": 328060
+    },
+    {
+      "path": "assets/current/residence-daytime-original_d50a64c7.webp",
+      "sha256": "40d32afef748349cdbb01317f710144e927a140dff7e284390349f3cbc8f609d",
+      "bytes": 552604
+    },
+    {
+      "path": "assets/fonts/archivo-medium.ttf",
+      "sha256": "bf52802dc93c0d9933f92a8d0da0126124f8c37a838b3cc513190036df14587d",
+      "bytes": 112136
+    },
+    {
+      "path": "assets/fonts/archivo-regular.ttf",
+      "sha256": "01170409e32e22123a354fbaa7dcb5ca5300790bb77c05d569ec8fdc394e78c9",
+      "bytes": 110708
+    },
+    {
+      "path": "assets/fonts/baskervville-italic.ttf",
+      "sha256": "d375b3f2fb1c355c55f065c3fd3ef02daa5f873cfed8a001784fbac9db132f6c",
+      "bytes": 61828
+    },
+    {
+      "path": "assets/fonts/baskervville-regular.ttf",
+      "sha256": "c9aa0baaae5610231c3ba1ba89469411d77a9d98d8cd967e9ad204deab78d004",
+      "bytes": 59852
+    },
+    {
+      "path": "assets/lucide.min.js",
+      "sha256": "ab85225ecc1daa2033607856f03dd2dabcbc08e2d260a5b97e17c690aa929766",
+      "bytes": 397450
+    },
+    {
+      "path": "assets/publications/house-beautiful.svg",
+      "sha256": "da7dbf54c8a11868a809e303c681fae374976078f621a1865fa9e95aedbb1389",
+      "bytes": 3052
+    },
+    {
+      "path": "assets/publications/los-angeles-times.svg",
+      "sha256": "0bc60cda16861c72dd809245ce2a906a533f607ea466d950f4025fa37f5ee448",
+      "bytes": 22531
+    },
+    {
+      "path": "assets/publications/mansion-global.png",
+      "sha256": "fd86a9cdd89271c096d034706f289653ef7704faae803c812586df83b4acd4d5",
+      "bytes": 6930
+    },
+    {
+      "path": "assets/publications/modern-luxury.svg",
+      "sha256": "6ae2622db5a81a4c7d8fb7115c2409c597cf415c7a56cfb20d6ff8a6850dda2e",
+      "bytes": 5602
+    },
+    {
+      "path": "assets/publications/ranch-and-coast.png",
+      "sha256": "b8a3b426b784191f71e146d0cdfd4037ca4928913a9779ff729d129b807932f5",
+      "bytes": 16668
+    },
+    {
+      "path": "assets/publications/robb-report.svg",
+      "sha256": "84fc01a78e14f0b011ba8a42bea3ea563a4053b66b7b32bab8ddf662e54e4623",
+      "bytes": 3293
+    },
+    {
+      "path": "assets/publications/wall-street-journal.png",
+      "sha256": "8dbc648ae5a9ee45b22e1e94ea9ea5c63002b1b919221a6141dd3424f5d2d8e4",
+      "bytes": 10923
+    },
+    {
+      "path": "homepage.css",
+      "sha256": "cb867cfa4bcdedc54243bdcf39d4cc38ee862379ba13097356a083d6de2aec4b",
+      "bytes": 23506
+    },
+    {
+      "path": "homepage.html",
+      "sha256": "59fb31891eaaba157381129af1931bbafd1a8679b1cc6fa19b1b20678378eb82",
+      "bytes": 8692
+    },
+    {
+      "path": "index.html",
+      "sha256": "59fb31891eaaba157381129af1931bbafd1a8679b1cc6fa19b1b20678378eb82",
+      "bytes": 8692
+    },
+    {
+      "path": "motion.js",
+      "sha256": "c98b6b9900182f6a520fe943ab3288efb30adffebb831bb6c78e9a2e897d5f5e",
+      "bytes": 3268
+    },
+    {
+      "path": "nav.js",
+      "sha256": "4ba7c9be3900cd57f8d4b5412da270c55636b5044cdd2853b7f745e315421868",
+      "bytes": 2213
+    }
+  ]
+}
